@@ -9,7 +9,7 @@
         "/images/SlideShow/Projects/ADT/5.png"
     ],
     "title": "Astronomical Data Tool",
-    "description":"FullStack data tool that allows users to upload .FITS files, generate images, and save all the informtion to their profile",
+    "description":"FullStack data tool that allows users to upload .FITS files, generate images, and save all the information to their profile",
     "languages":["jsx", "python"],
     "categories":["jsx", "python","personal" ,"all"],
     "type":"personal",
@@ -57,7 +57,7 @@
         "/images/SlideShow/Projects/PythonLinReg/14.png"
     ],
     "title": "Python Regression",
-    "description":"The goal of this project was to predict the Opiod Death Rate for the year 2021 using the msot accurate model.",
+    "description":"The goal of this project was to predict the Opioid Death Rate for the year 2021 using the most accurate model.",
     "languages":["python"],
     "categories":["python", "personal", "all"],
     "type": "personal",

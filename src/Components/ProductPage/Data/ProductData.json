@@ -1,0 +1,93 @@
+
+[
+{
+    "images":[
+        "/images/SlideShow/Projects/ADT/1.png",
+        "/images/SlideShow/Projects/ADT/2.png",
+        "/images/SlideShow/Projects/ADT/3.png",
+        "/images/SlideShow/Projects/ADT/4.png",
+        "/images/SlideShow/Projects/ADT/5.png"
+    ],
+    "title": "Astronomical Data Tool",
+    "description":"FullStack data tool that allows users to upload .FITS files, generate images, and save all the informtion to their profile",
+    "languages":["jsx", "python"],
+    "categories":["jsx", "python","personal" ,"all"],
+    "type":"personal",
+    "price":29.00,
+    "gitUrl":"https://github.com/austin-zickur/Astronomical-Data-Tool-Backend-ADT-",
+    "webUrl":"https://astrodatatool.netlify.app/"
+},
+{
+    "images":[
+        "/images/SlideShow/Projects/CRUD_API_blog/6.png",
+        "/images/SlideShow/Projects/CRUD_API_blog/7.png"
+    ],
+    "title": "CRUD Blog API",
+    "description":"CRUD API Project for Blog Style Applications -- Tested with Postman!",
+    "languages":["js","mysql"],
+    "categories":["js","mysql", "personal", "all"],
+    "type": "personal",
+    "price":25.00,
+    "gitUrl":"https://github.com/KyleeMBrown/CRUD-BLOG-API/blob/main/server.js"
+},
+{
+    "images":[
+        "/images/SlideShow/Projects/KBsKustomz/17.png",
+        "/images/SlideShow/Projects/KBsKustomz/18.png",
+        "/images/SlideShow/Projects/KBsKustomz/19.png"
+    ],
+    "title": "KB's Kustom'z",
+    "description":"I created this website for a local company to advertise and showcase their services. This website is maintained by a CI/CD system trhough Netlify, and the client periodically sends me assets in order to keep the website up to date.",
+    "languages":["jsx"],
+    "categories":["jsx", "personal", "all"],
+    "type": "personal",
+    "price":20.00,
+    "gitUrl":"https://github.com/TechFataleFreelance/KB-s-Kustomz",
+    "webUrl":"https://kbs-kustomz.netlify.app/"
+},
+{
+    "images":[
+        "/images/SlideShow/Projects/PythonLinReg/8.png",
+        "/images/SlideShow/Projects/PythonLinReg/9.png",
+        "/images/SlideShow/Projects/PythonLinReg/10.png",
+        "/images/SlideShow/Projects/PythonLinReg/11.png",
+        "/images/SlideShow/Projects/PythonLinReg/12.png",
+        "/images/SlideShow/Projects/PythonLinReg/13.png",
+        "/images/SlideShow/Projects/PythonLinReg/14.png"
+    ],
+    "title": "Python Regression",
+    "description":"The goal of this project was to predict the Opiod Death Rate for the year 2021 using the msot accurate model.",
+    "languages":["python"],
+    "categories":["python", "personal", "all"],
+    "type": "personal",
+    "price":20.00,
+    "gitUrl":"https://github.com/KyleeMBrown/USOpioidDeathRateAnalysis"
+},
+{
+    "images":[
+        "/images/SlideShow/Projects/WeatherAPI/15.png",
+        "/images/SlideShow/Projects/WeatherAPI/16.png"
+    ],
+    "title": "Weather App",
+    "description":"I created this weather app using OpenWeather API as a way to have my own quick way in finding the weather rather than going on weather.com.",
+    "languages":["js"],
+    "categories":["js","all", "personal"],
+    "type": "personal",
+    "price":15.00,
+    "gitUrl":"https://github.com/KyleeMBrown/Weather-Web-App"
+},
+{
+    "images":[
+        "/images/SlideShow/Projects/CornerGrocer/Photos.png"
+    ],
+    "title": "Corner Grocer",
+    "description":"This is a project I completed during my Object Oriented Programmmng course while persuing my Bachelors in Computer Science with a concentration in Software Engineering at Southern New Hampshire University",
+    "languages":["c++"],
+    "categories":["all", "c++", "academic"],
+    "type": "academic",
+    "price":10.00,
+    "gitUrl": "https://github.com/KyleeMBrown/CornerGrocerProgram?tab=readme-ov-file"
+}
+]
+
+

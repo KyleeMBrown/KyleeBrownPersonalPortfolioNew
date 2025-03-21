@@ -13,12 +13,12 @@ export const Menu = ({openCart, cart, updateTotal}) => {
         <div className='w-full flex text-gray-700 items-center justify-between p-[0.75em]'>
             {/* Logo Area */}
           <div aria-label="portfolio logo" className="w-[50%] max-[760px]:hidden flex items-center justify-between">
-              <img src="/images/Logo.png" className="w-[6%] cursor-pointer hover:scale-103 active:scale-100 mr-[-3.5em]"></img>
-              <a href="/" className="cursor-pointer"><h2 className=''> <strong className='text-[#709d9e]'>Personal Portfolio </strong>| Kylee Brown</h2></a>
+              <a href="#top" className="w-[6%] cursor-pointer hover:scale-103 active:scale-100 mr-[-3.5em]"><img src="/images/Logo.png" ></img></a>
+              <a href="#top" className="cursor-pointer"><h2 className=''> <strong className='text-[#709d9e]'>Personal Portfolio </strong>| Kylee Brown</h2></a>
               <div className="flex gap-[2em] text-[0.95em] font-medium">
               <a href="#projects" className="cursor-pointer ">Shop Projects and Skills</a>
-              <a className="cursor-pointer">About</a>
-              <a className="cursor-pointer">Resume</a>
+              <a href="#about" className="cursor-pointer">About</a>
+              <a target="_blank" href="/Resume.pdf" className="cursor-pointer">Resume</a>
               </div>
           </div>
           {/* Menu Area */}

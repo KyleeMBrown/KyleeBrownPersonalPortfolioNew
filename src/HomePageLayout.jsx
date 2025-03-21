@@ -16,7 +16,7 @@ export const HomePageLayout = () => {
   
 
   return (
-    <>
+    <div id="top">
     <Header opened={opened} close={close} open={open} setShoppingCart={setShoppingCart} cart={shoppingCart} ></Header>
     <HomeScreen></HomeScreen>
     <BannerSection1></BannerSection1>
@@ -24,6 +24,6 @@ export const HomePageLayout = () => {
     <ProductSection openCart={open} cart={shoppingCart} setShoppingCart={setShoppingCart}></ProductSection>
     <About></About>
     <Footer></Footer>
-    </>
+    </div>
   )
 }

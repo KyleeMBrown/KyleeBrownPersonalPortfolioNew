@@ -26,7 +26,7 @@ const phone = useMediaQuery('(max-width:760px)')
             
             <Carousel.Slide key={index}>
                 
-            <div className="w-full flex-col mt-1 hover:scale-102 max-[760px]:hover:scale-100 transition-all ease-in duration-[0.3s] h-[100%] flex items-center">
+            <div className="w-full flex-col mt-1 hover:scale-102 max-[760px]:hover:scale-100 transition-all ease-in duration-[0.3s] h-full flex items-center">
             <center>{item.title}</center>
             <div onClick={() => (setCurrItem(item))} style={{backgroundImage:`url("${item.images[0]}")`}} className="w-full cursor-pointer bg-cover bg-center h-[68%] rounded-lg">
                 

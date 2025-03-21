@@ -15,6 +15,7 @@
     "type":"personal",
     "price":29.00,
     "gitUrl":"https://github.com/austin-zickur/Astronomical-Data-Tool-Backend-ADT-",
+    "gitUrls":[{"url":"https://github.com/KyleeMBrown/Astronomical-Data-Tool----Frontend", "title":"FrontEnd"},{"url":"https://github.com/austin-zickur/Astronomical-Data-Tool-Backend-ADT-", "title":"BackEnd"}],
     "webUrl":"https://astrodatatool.netlify.app/"
 },
 {

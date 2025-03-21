@@ -11,7 +11,7 @@ const HomeScreen = () => {
   ]
 
   return (
-    <div className="w-full h-[80vh] flex flex-col bg-blue-200">
+    <div className="w-full h-[auto] flex flex-col bg-blue-200">
       <div className="w-full h-full">
         <MainCarouselComponent data={data2}/>
       </div>

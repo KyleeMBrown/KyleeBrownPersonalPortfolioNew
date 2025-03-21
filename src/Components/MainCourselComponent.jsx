@@ -8,7 +8,7 @@ const MainCarouselComponent = ({data}) => {
   const phone = useMediaQuery('(max-width:760px)')
 
   return (
-    <div className="w-full h-auto bg-yellow-400 ">
+    <div className="w-full h-auto">
         <Carousel
         style={{height:"100%"}}
         slideSize="100%"

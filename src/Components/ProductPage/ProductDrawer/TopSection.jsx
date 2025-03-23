@@ -44,6 +44,7 @@ const TopSection = ({currItem, setShoppingCart,setNotifs}) => {
             <div className="w-[18%] mt-3">
                 <p className="text-[13px] font-semibold">QTY</p>
                     <NumberInput
+                    size="md"
                     value={quantity}
                     onChange={setQuantity}
                     placeholder="1"

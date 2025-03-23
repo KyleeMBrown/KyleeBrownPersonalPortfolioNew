@@ -23,7 +23,7 @@ const MainCarouselComponent = ({data}) => {
                 <Carousel.Slide key={index}>
                     <div style={{backgroundImage:`url("${data.url}")`}} className="bg-cover font-sans bg-center h-[100%] flex items-center justify-center">
                      {data.title ? 
-                     <div className="flex items-center text-[1.25em] max-[400px]:w-[80%] text-[#355748] justify-center backdrop-blur-lg bg-[#cdeaeb65] p-[1em] flex-col">
+                     <div className="flex items-center text-[1.25em] max-[500px]:w-[80%] max-[900px]:w-[75%] text-[#355748] justify-center backdrop-blur-lg bg-[#cdeaeb65] p-[1em] flex-col">
                         <p className="italic ">Aspiring...</p>
                         <br></br>
                         <h2 className="font-bold text-[2em] max-[760px]:text-[0.75em] max-[760px]:text-center">{data.title}</h2>

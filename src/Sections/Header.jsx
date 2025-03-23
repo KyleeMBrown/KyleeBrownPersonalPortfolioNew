@@ -18,7 +18,7 @@ export const Header = ({setCount, cart, setShoppingCart, opened, open, close}) =
   return (
     <div className="w-full sticky top-0 z-[99]">
       {/* Promo section */}
-      <div className="flex font-sans text-gray-700 items-center justify-center italic bg-[#cdeaeb] text-[12px] p-[0.5em]">
+      <div className="flex font-sans text-gray-700 items-center justify-center italic bg-[#cdeaeb] text-[12px] max-[760px]:text-[10px] p-[0.5em]">
         <strong>Limited time Offer: 15% 0ff Select Items</strong>
         <p className="ml-[0.25em]">+ Free Shipping</p>
         <button className="ml-[1em] hover:bg-gray-500 hover:text-white transition-all ease-in duration-[0.3s] hover:border-transparent cursor-pointer underline border p-[0.5em] rounded-[5px] text-[10px]">SHOP NOW</button>

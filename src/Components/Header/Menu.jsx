@@ -11,11 +11,12 @@ export const Menu = ({openCart, cart, updateTotal}) => {
     {/*  Menu Wrap */}
     <div className='w-full h-[3.5em] bg-white flex items-center jsutify-center '>
         <div className='w-full flex text-gray-700 items-center justify-between p-[0.75em]'>
+
             {/* Logo Area */}
-          <div aria-label="portfolio logo" className="w-[50%] max-[760px]:hidden flex items-center justify-between">
-              <a href="#top" className="w-[6%] cursor-pointer hover:scale-103 active:scale-100 mr-[-3.5em]"><img src="/images/Logo.png" ></img></a>
+          <div aria-label="portfolio logo" className="w-[50%] max-[850px]:w-[90%] max-[760px]:hidden flex items-center justify-between">
+              <a href="#top" className="w-[6%] cursor-pointer max-[860px]:hidden hover:scale-103 active:scale-100 mr-[-3.5em]"><img src="/images/Logo.png" ></img></a>
               <a href="#top" className="cursor-pointer"><h2 className=''> <strong className='text-[#709d9e]'>Personal Portfolio </strong>| Kylee Brown</h2></a>
-              <div className="flex gap-[2em] text-[0.95em] font-medium">
+              <div className="flex gap-[2em] text-[0.95em] max-[860px]:text-[12px] font-medium">
               <a href="#projects" className="cursor-pointer ">Shop Projects and Skills</a>
               <a href="#about" className="cursor-pointer">About</a>
               <a target="_blank" href="/Resume.pdf" className="cursor-pointer">Resume</a>

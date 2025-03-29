@@ -1,5 +1,21 @@
 
 [
+    {
+        "images":[
+            "/images/SlideShow/Projects/JarvisBot/21.png",
+            "/images/SlideShow/Projects/JarvisBot/19.png",
+            "/images/SlideShow/Projects/JarvisBot/20.png",
+            "/images/SlideShow/Projects/JarvisBot/22.png"
+        ],
+        "title": "JarvisBot Discord Bot",
+        "description":"I created this Discord bot to be able to look up Marvel Rivals characters and view their stats. I also integrated Google AI in order to give the users the ability to ask any question to the JarvisBot, much like the actual Jarvis in Marvel",
+        "languages":["aws", "python"],
+        "categories":["jsx", "python","personal" ,"all"],
+        "type":"personal",
+        "price":29.00,
+        "gitUrl":"https://github.com/KyleeMBrown/DiscordBot",
+        "webUrl":"https://discord.com/oauth2/authorize?client_id=1353878573861179402&permissions=1689934340028480&integration_type=0&scope=bot"
+    },
 {
     "images":[
         "/images/SlideShow/Projects/ADT/1.png",

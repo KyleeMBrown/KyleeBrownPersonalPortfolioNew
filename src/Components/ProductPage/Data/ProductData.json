@@ -69,8 +69,7 @@
         "/images/SlideShow/Projects/PythonLinReg/10.png",
         "/images/SlideShow/Projects/PythonLinReg/11.png",
         "/images/SlideShow/Projects/PythonLinReg/12.png",
-        "/images/SlideShow/Projects/PythonLinReg/13.png",
-        "/images/SlideShow/Projects/PythonLinReg/14.png"
+        "/images/SlideShow/Projects/PythonLinReg/13.png"
     ],
     "title": "Python Regression",
     "description":"The goal of this project was to predict the Opioid Death Rate for the year 2021 using the most accurate model.",
@@ -83,7 +82,7 @@
 {
     "images":[
         "/images/SlideShow/Projects/WeatherAPI/15.png",
-        "/images/SlideShow/Projects/WeatherAPI/16.png"
+        "/images/SlideShow/Projects/WeatherAPI/14.png"
     ],
     "title": "Weather App",
     "description":"I created this weather app using OpenWeather API as a way to have my own quick way in finding the weather rather than going on weather.com.",

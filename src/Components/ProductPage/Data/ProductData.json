@@ -54,7 +54,7 @@
             "/images/SlideShow/Projects/DSA/1.png",
             "/images/SlideShow/Projects/DSA/2.png"
         ],
-        "title": "Data Structures and Algorithms: Analysis and Design Project",
+        "title": "ABCU's Course Analyzer Project",
         "description":"This is my Code and Reflection that I completed during my Data Structures and Algorithms: Analysis and Design course while persuing my Bachelors in Computer Science with a concentration in Software Engineering at Southern New Hampshire University",
         "languages":["c++", "DSA"],
         "categories":["all", "academic", "c++"],
@@ -123,9 +123,9 @@
     "images":[
         "/images/SlideShow/Projects/SDLC_paper/sdlc1.png"
     ],
-    "title": "Sprint Review and Retrospective",
+    "title": "SDLC",
     "description":"This is my sprint review and retrospective that I completed during my Software Development Life Cycle course while persuing my Bachelors in Computer Science with a concentration in Software Engineering at Southern New Hampshire University",
-    "languages":["SDLC"],
+    "languages":[],
     "categories":["all", "academic"],
     "type": "academic",
     "price":10.00,

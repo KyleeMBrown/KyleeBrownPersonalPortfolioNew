@@ -16,6 +16,8 @@
         "gitUrl":"https://github.com/KyleeMBrown/DiscordBot",
         "webUrl":"https://discord.com/oauth2/authorize?client_id=1353878573861179402&permissions=1689934340028480&integration_type=0&scope=bot"
     },
+
+
 {
     "images":[
         "/images/SlideShow/Projects/ADT/1.png",
@@ -46,6 +48,19 @@
     "type": "personal",
     "price":25.00,
     "gitUrl":"https://github.com/KyleeMBrown/CRUD-BLOG-API/blob/main/server.js"
+},
+{
+    "images":[
+        "/images/SlideShow/Projects/DSA/DSA-1.png",
+        "/images/SlideShow/Projects/DSA/DSA2.png"
+    ],
+    "title": "Data Structures and Algorithms File Analysis Project",
+    "description":"This is my Code and Reflection from my Data Structures and Algorithms: Analysis and Design course while persuing my Bachelors in Computer Science with a concentration in Software Engineering at Southern New Hampshire University",
+    "languages":["c++", "DSA"],
+    "categories":["all", "academic", "c++"],
+    "type": "academic",
+    "price":15.00,
+    "gitUrl": "https://github.com/KyleeMBrown/Data-Structures-and-Algorithms_Project"
 },
 {
     "images":[
@@ -103,6 +118,18 @@
     "type": "academic",
     "price":10.00,
     "gitUrl": "https://github.com/KyleeMBrown/CornerGrocerProgram?tab=readme-ov-file"
+},
+{
+    "images":[
+        "/images/SlideShow/Projects/SDLC_paper/SDLC-Git.png"
+    ],
+    "title": "Sprint Review and Retrospective",
+    "description":"This is my sprint review and retrospective that I completed during my Software Development Life Cycle course while persuing my Bachelors in Computer Science with a concentration in Software Engineering at Southern New Hampshire University",
+    "languages":["SDLC"],
+    "categories":["all", "academic"],
+    "type": "academic",
+    "price":10.00,
+    "gitUrl": "https://github.com/KyleeMBrown/SoftwareDevelopmentLifeCycle"
 }
 ]
 

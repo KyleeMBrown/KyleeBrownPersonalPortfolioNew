@@ -15,7 +15,7 @@ export const ProductCard = ({images, title, description, price, languages, type,
     "personal":"pink",
     "academic":"blue",
     "c++":"orange",
-    "mysql":"yellow"
+    "mysql": "yellow"
   }
 
 

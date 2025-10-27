@@ -55,7 +55,7 @@
         "/images/SlideShow/Projects/DSA/DSA2.png"
     ],
     "title": "Data Structures and Algorithms File Analysis Project",
-    "description":"This is my Code and Reflection from my Data Structures and Algorithms: Analysis and Design course while persuing my Bachelors in Computer Science with a concentration in Software Engineering at Southern New Hampshire University",
+    "description":"This is my Code and Reflection from my Data Structures and Algorithms: Analysis and Design course",
     "languages":["c++", "DSA"],
     "categories":["all", "academic", "c++"],
     "type": "academic",
@@ -124,7 +124,7 @@
         "/images/SlideShow/Projects/SDLC_paper/SDLC-Git.png"
     ],
     "title": "Sprint Review and Retrospective",
-    "description":"This is my sprint review and retrospective that I completed during my Software Development Life Cycle course while persuing my Bachelors in Computer Science with a concentration in Software Engineering at Southern New Hampshire University",
+    "description":"This is my sprint review and retrospective from my SDLC course",
     "languages":["SDLC"],
     "categories":["all", "academic"],
     "type": "academic",

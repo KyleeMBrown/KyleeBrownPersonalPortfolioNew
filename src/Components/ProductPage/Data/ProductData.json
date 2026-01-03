@@ -16,26 +16,6 @@
         "gitUrl":"https://github.com/KyleeMBrown/DiscordBot",
         "webUrl":"https://discord.com/oauth2/authorize?client_id=1353878573861179402&permissions=1689934340028480&integration_type=0&scope=bot"
     },
-
-
-{
-    "images":[
-        "/images/SlideShow/Projects/ADT/1.png",
-        "/images/SlideShow/Projects/ADT/2.png",
-        "/images/SlideShow/Projects/ADT/3.png",
-        "/images/SlideShow/Projects/ADT/4.png",
-        "/images/SlideShow/Projects/ADT/5.png"
-    ],
-    "title": "Astronomical Data Tool",
-    "description":"FullStack data tool that allows users to upload .FITS files, generate images, and save all the information to their profile",
-    "languages":["jsx", "python"],
-    "categories":["jsx", "python","personal" ,"all"],
-    "type":"personal",
-    "price":29.00,
-    "gitUrl":"https://github.com/austin-zickur/Astronomical-Data-Tool-Backend-ADT-",
-    "gitUrls":[{"url":"https://github.com/KyleeMBrown/Astronomical-Data-Tool----Frontend", "title":"FrontEnd"},{"url":"https://github.com/austin-zickur/Astronomical-Data-Tool-Backend-ADT-", "title":"BackEnd"}],
-    "webUrl":"https://astrodatatool.netlify.app/"
-},
 {
     "images":[
         "/images/SlideShow/Projects/CRUD_API_blog/6.png",

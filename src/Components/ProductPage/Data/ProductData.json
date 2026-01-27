@@ -76,19 +76,6 @@
 },
 {
     "images":[
-        "/images/SlideShow/Projects/WeatherAPI/15.png",
-        "/images/SlideShow/Projects/WeatherAPI/14.png"
-    ],
-    "title": "Weather App",
-    "description":"I created this weather app using OpenWeather API as a way to have my own quick way in finding the weather rather than going on weather.com.",
-    "languages":["js"],
-    "categories":["js","all", "personal"],
-    "type": "personal",
-    "price":15.00,
-    "gitUrl":"https://github.com/KyleeMBrown/Weather-Web-App"
-},
-{
-    "images":[
         "/images/SlideShow/Projects/CornerGrocer/Photos.png"
     ],
     "title": "Corner Grocer",

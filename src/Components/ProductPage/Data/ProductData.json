@@ -110,6 +110,19 @@
     "type": "academic",
     "price":10.00,
     "gitUrl": "https://github.com/KyleeMBrown/SoftwareDevelopmentLifeCycle"
+},
+{
+    "images":[
+        "/images/SlideShow/Projects/CS305SoftwareSecurityFinal/img1.png",
+        "/images/SlideShow/Projects/CS305SoftwareSecurityFinal/img2.png"
+    ],
+    "title": "Software Security Final",
+    "description":"This is my final paper/code from my Software Security Course at SNHU. I describe why certain algorithms should be used for encryption as well as vulnerability scanning and mitigating",
+    "languages":[],
+    "categories":["all", "academic"],
+    "type": "academic",
+    "price":10.00,
+    "gitUrl": "https://github.com/KyleeMBrown/CS-305-Software-Security-Final/tree/main"
 }
 ]
 

@@ -2,15 +2,13 @@
 [
     {
     "images":[
-        "/images/SlideShow/Projects/KBsKustomz/Home page.png",
-        "/images/SlideShow/Projects/KBsKustomz/Gallery (Dark Mode).png",
-        "/images/SlideShow/Projects/KBsKustomz/Dashboard Login page.png",
-        "/images/SlideShow/Projects/KBsKustomz/Dashboard Home page (Fullscreen).png",
-        "/images/SlideShow/Projects/KBsKustomz/Upload Images page (Fullscreen).png",
-        "/images/SlideShow/Projects/KBsKustomz/Manage Images page (Fullscreen).png",
-        "/images/SlideShow/Projects/KBsKustomz/Create a User page (Fullscreen).png",
-        "/images/SlideShow/Projects/KBsKustomz/Manage Users Edit  User State.png",
-        "/images/SlideShow/Projects/KBsKustomz/Logout Modal Popup.png"
+        "/images/SlideShow/Projects/KBsKustomz/1.png",
+        "/images/SlideShow/Projects/KBsKustomz/2.png",
+        "/images/SlideShow/Projects/KBsKustomz/3.png",
+        "/images/SlideShow/Projects/KBsKustomz/4.png",
+        "/images/SlideShow/Projects/KBsKustomz/5.png",
+        "/images/SlideShow/Projects/KBsKustomz/6.png",
+        "/images/SlideShow/Projects/KBsKustomz/7.png"
     ],
     "title": "KB's Kustomz v2",
     "description":"This site was designed for my client to showcase his services and skills and increase customer leads. I remodeled this after an older version that I created in 2023 with React.js.",

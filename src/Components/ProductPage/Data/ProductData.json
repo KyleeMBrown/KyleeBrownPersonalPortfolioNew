@@ -44,18 +44,27 @@
     },
 {
     "images":[
-        "/images/SlideShow/Projects/KBsKustomz/17.png",
-        "/images/SlideShow/Projects/KBsKustomz/18.png",
-        "/images/SlideShow/Projects/KBsKustomz/19.png"
+        "/images/SlideShow/Projects/KBsKustomz/Home page.png",
+        "/images/SlideShow/Projects/KBsKustomz/Gallery (Dark Mode).png",
+        "/images/SlideShow/Projects/KBsKustomz/Gallery (Light Mode).png",
+        "/images/SlideShow/Projects/KBsKustomz/1.png",
+        "/images/SlideShow/Projects/KBsKustomz/2.jpg",
+        "/images/SlideShow/Projects/KBsKustomz/Dashboard Login page.png",
+        "/images/SlideShow/Projects/KBsKustomz/Dashboard Home page (Fullscreen).png",
+        "/images/SlideShow/Projects/KBsKustomz/Upload Images page (Fullscreen).png",
+        "/images/SlideShow/Projects/KBsKustomz/Manage Images page (Fullscreen).png",
+        "/images/SlideShow/Projects/KBsKustomz/Create a User page (Fullscreen).png",
+        "/images/SlideShow/Projects/KBsKustomz/Manage Users Edit  User State.png",
+        "/images/SlideShow/Projects/KBsKustomz/Logout Modal Popup.png"
     ],
-    "title": "KB's Kustom'z",
-    "description":"I created this website for a local company to advertise and showcase their services. This website is maintained by a CI/CD system trhough Netlify, and the client periodically sends me assets in order to keep the website up to date.",
-    "languages":["jsx"],
+    "title": "KB's Kustomz Website + CMS (v2)",
+    "description":"KBs Kustomz is a website & content management system built to advertise auto body and painting services for KB's Kustomz located in Wyanet, IL. The website features a gallery, about us page, services page, and a contact us page, as well as a cms dashboard to eliminate manual content updates and allow the client to manage their own site.",
+    "languages":["jsx", "Next.js"],
     "categories":["jsx", "personal", "all"],
     "type": "personal",
-    "price":20.00,
-    "gitUrl":"https://github.com/TechFataleFreelance/KB-s-Kustomz",
-    "webUrl":"https://kbs-kustomz.netlify.app/"
+    "price":60.00,
+    "gitUrl":"https://github.com/KyleeMBrown/KBsKustomz_NewSite",
+    "webUrl":"https://kbs-kustomz.vercel.app/"
 },
 {
     "images":[

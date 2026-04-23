@@ -17,7 +17,7 @@ export const ProductMenu = ({langVal, setLangVal, typeVal, setTypeVal}) => {
       fullWidth
       data={[
           { label: 'All', value: 'all' },  
-          { label: 'JSX', value: 'jsx' },
+          { label: 'TSX', value: 'tsx' },
           { label: 'C++', value: 'c++' },
           { label: 'Python', value: 'python' },
           { label: 'JS', value: 'js' },

@@ -11,7 +11,7 @@
         "/images/SlideShow/Projects/KBsKustomz/7.png"
     ],
     "title": "KB's Kustomz v2",
-    "description":"This site was designed for my client to showcase his services and skills and increase customer leads. I remodeled this after an older version that I created in 2023 with React.js.",
+    "description":"This site was designed for my client to showcase his services and skills and increase customer leads. I remodeled this after an older version that I created in 2023. Some improvements include using the NEXT.js > Github > Vercel workflow, enhanced SEO, etc.",
      "languages":["tsx", "NEXT.JS"],
     "categories":["tsx", "personal", "all"],
     "type": "personal",

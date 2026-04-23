@@ -4,7 +4,6 @@
     "images":[
         "/images/SlideShow/Projects/KBsKustomz/Home page.png",
         "/images/SlideShow/Projects/KBsKustomz/Gallery (Dark Mode).png",
-        "/images/SlideShow/Projects/KBsKustomz/Gallery (Light Mode).png",
         "/images/SlideShow/Projects/KBsKustomz/1.png",
         "/images/SlideShow/Projects/KBsKustomz/2.jpg",
         "/images/SlideShow/Projects/KBsKustomz/Dashboard Login page.png",
@@ -16,8 +15,8 @@
         "/images/SlideShow/Projects/KBsKustomz/Logout Modal Popup.png"
     ],
     "title": "KB's Kustomz Website + CMS (v2)",
-    "description":"KBs Kustomz is a website & content management system built to advertise auto body and painting services for KB's Kustomz located in Wyanet, IL. The website features a gallery, about us page, services page, and a contact us page, as well as a cms dashboard to eliminate manual content updates and allow the client to manage their own site.",
-    "languages":["jsx", "Next.js"],
+    "description":"This site was designed for my client to showcase his services and skills and increase customer leads. I remodeled this after an older version that I created in 2023 with React.js.",
+     "languages":["jsx", "NEXT.JS", "tailwindcss"],
     "categories":["jsx", "personal", "all"],
     "type": "personal",
     "price":60.00,

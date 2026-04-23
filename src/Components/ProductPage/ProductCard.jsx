@@ -44,7 +44,7 @@ export const ProductCard = ({images, title, description, price, languages, type,
         </Card.Section>
         <div className="pt-[1em] h-[14em] mb-[0em]">
           <Group justify='between'>
-            <Text style={{ fontSize: `${title == "KB's Kustomz Website + CMS (v2)" && '11.5px !important' }` }} fw={700}>
+              <Text fw={700}>
               {title}
               </Text>
             {/* Spot for Price */}

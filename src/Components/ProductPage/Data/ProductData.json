@@ -14,9 +14,9 @@
         "/images/SlideShow/Projects/KBsKustomz/Manage Users Edit  User State.png",
         "/images/SlideShow/Projects/KBsKustomz/Logout Modal Popup.png"
     ],
-    "title": "KB's Kustomz Website + CMS (v2)",
+    "title": "KB's Kustomz Website + CMS",
     "description":"This site was designed for my client to showcase his services and skills and increase customer leads. I remodeled this after an older version that I created in 2023 with React.js.",
-     "languages":["jsx", "NEXT.JS", "tailwindcss"],
+     "languages":["jsx", "NEXT.JS"],
     "categories":["jsx", "personal", "all"],
     "type": "personal",
     "price":60.00,

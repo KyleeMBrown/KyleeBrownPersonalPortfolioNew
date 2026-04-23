@@ -1,48 +1,6 @@
 
 [
     {
-        "images":[
-            "/images/SlideShow/Projects/JarvisBot/21.png",
-            "/images/SlideShow/Projects/JarvisBot/19.png",
-            "/images/SlideShow/Projects/JarvisBot/20.png",
-            "/images/SlideShow/Projects/JarvisBot/22.png"
-        ],
-        "title": "JarvisBot Discord Bot",
-        "description":"I created this Discord bot to be able to look up Marvel Rivals characters and view their stats. I also integrated Google AI in order to give the users the ability to ask any question to the JarvisBot, much like the actual Jarvis in Marvel",
-        "languages":["aws", "python"],
-        "categories":["jsx", "python","personal" ,"all"],
-        "type":"personal",
-        "price":29.00,
-        "gitUrl":"https://github.com/KyleeMBrown/DiscordBot",
-        "webUrl":"https://discord.com/oauth2/authorize?client_id=1353878573861179402&permissions=1689934340028480&integration_type=0&scope=bot"
-    },
-{
-    "images":[
-        "/images/SlideShow/Projects/CRUD_API_blog/6.png",
-        "/images/SlideShow/Projects/CRUD_API_blog/7.png"
-    ],
-    "title": "CRUD Blog API",
-    "description":"CRUD API Project for Blog Style Applications -- Tested with Postman!",
-    "languages":["js","mysql"],
-    "categories":["js","mysql", "personal", "all"],
-    "type": "personal",
-    "price":25.00,
-    "gitUrl":"https://github.com/KyleeMBrown/CRUD-BLOG-API/blob/main/server.js"
-},
-    {
-        "images":[
-            "/images/SlideShow/Projects/DSA/1.png",
-            "/images/SlideShow/Projects/DSA/2.png"
-        ],
-        "title": "ABCU Project",
-        "description":"This is my Code and Reflection that I completed during my Data Structures and Algorithms: Analysis and Design course while persuing my Bachelors in Computer Science with a concentration in Software Engineering at Southern New Hampshire University",
-        "languages":["c++", "DSA"],
-        "categories":["all", "academic", "c++"],
-        "type": "academic",
-        "price":20.00,
-        "gitUrl": "https://github.com/KyleeMBrown/Data-Structures-and-Algorithms_Project"
-    },
-{
     "images":[
         "/images/SlideShow/Projects/KBsKustomz/Home page.png",
         "/images/SlideShow/Projects/KBsKustomz/Gallery (Dark Mode).png",
@@ -66,6 +24,36 @@
     "gitUrl":"https://github.com/KyleeMBrown/KBsKustomz_NewSite",
     "webUrl":"https://kbs-kustomz.vercel.app/"
 },
+    {
+        "images":[
+            "/images/SlideShow/Projects/JarvisBot/21.png",
+            "/images/SlideShow/Projects/JarvisBot/19.png",
+            "/images/SlideShow/Projects/JarvisBot/20.png",
+            "/images/SlideShow/Projects/JarvisBot/22.png"
+        ],
+        "title": "JarvisBot Discord Bot",
+        "description":"I created this Discord bot to be able to look up Marvel Rivals characters and view their stats. I also integrated Google AI in order to give the users the ability to ask any question to the JarvisBot, much like the actual Jarvis in Marvel",
+        "languages":["aws", "python"],
+        "categories":["jsx", "python","personal" ,"all"],
+        "type":"personal",
+        "price":29.00,
+        "gitUrl":"https://github.com/KyleeMBrown/DiscordBot",
+        "webUrl":"https://discord.com/oauth2/authorize?client_id=1353878573861179402&permissions=1689934340028480&integration_type=0&scope=bot"
+    },
+    {
+        "images":[
+            "/images/SlideShow/Projects/DSA/1.png",
+            "/images/SlideShow/Projects/DSA/2.png"
+        ],
+        "title": "ABCU Project",
+        "description":"This is my Code and Reflection that I completed during my Data Structures and Algorithms: Analysis and Design course while persuing my Bachelors in Computer Science with a concentration in Software Engineering at Southern New Hampshire University",
+        "languages":["c++", "DSA"],
+        "categories":["all", "academic", "c++"],
+        "type": "academic",
+        "price":20.00,
+        "gitUrl": "https://github.com/KyleeMBrown/Data-Structures-and-Algorithms_Project"
+    },
+
 {
     "images":[
         "/images/SlideShow/Projects/PythonLinReg/8.png",

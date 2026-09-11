@@ -19,9 +19,7 @@ export const ProductMenu = ({langVal, setLangVal, typeVal, setTypeVal}) => {
           { label: 'All', value: 'all' },  
           { label: 'TSX', value: 'tsx' },
           { label: 'C++', value: 'c++' },
-          { label: 'Python', value: 'python' },
-          { label: 'JS', value: 'js' },
-          { label: 'MySql', value: 'mysql' }
+          { label: 'Python', value: 'python' }
         ]}
       >
 
